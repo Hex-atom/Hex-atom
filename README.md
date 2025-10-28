@@ -5,15 +5,15 @@
 
 I am an Engineering Student (BAC+4) at INSA Centre-Val de Loire, pursuing a dual specialization in **Cybersecurity and Artificial Intelligence**.
 
-I'm passionate about securing systems and intelligently exploiting data. My focus is on using Python for Deep Learning (PyTorch, TensorFlow) and for security scripting (Bash). I thrive on solving complex problems and building practical, data-driven solutions.
+I’m passionate about Cybersecurity, Artificial Intelligence, and data exploitation. My focus is on using Python for Machine/Deep Learning (scikitlearn, TensorFlow) as well as for cybersecurity applications. I thrive on solving complex problems and developing practical, data-driven solutions that make a real-world impact.
 
 ---
 
 ### 🚀 What I'm Focused On
 
-* 🌱 I'm currently seeking a **4-month internship** to contribute to innovative projects in AI or Cybersecurity.
-* 🎓 Deepening my skills in system security (Linux) and vulnerability analysis.
-* 💡 Building and optimizing AI pipelines, from data processing (OCR, RAG) to 3D image classification.
+* 🌱 I am currently seeking a **4-month internship** where I can contribute to innovative projects in **Artificial Intelligence**, **Cybersecurity**, or at the intersection of both.
+* 🎓 Deepening my expertise in **Cybersecurity**, with a particular interest in **system security** and **vulnerability analysis**.
+* 💡 Building and optimizing **AI projects**, with a strong focus on **security**—ensuring models and systems are both efficient and resilient against threats.
 
 ---
 
