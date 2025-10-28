@@ -1,23 +1,19 @@
 ### Hi there, I'm Yassine Aherrass 👋
 
-<a href="https://linkedin.com/in/yassine-aherrass" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yassine%20Aherrass-0077B5?style=flat&logo=linkedin">
-</a>
-<a href="mailto:yassine.aherrass@insa-cvl.fr">
-  <img alt="Email" src="https://img.shields.io/badge/Email-yassine.aherrass@insa--cvl.fr-D14836?style=flat&logo=gmail">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20Aherrass-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yassine-aherrass)
+[![Email](https://img.shields.io/badge/Email-yassine.aherrass@insa--cvl.fr-D14836?style=flat&logo=gmail)](mailto:yassine.aherrass@insa-cvl.fr)
 
-[cite_start]I am an Engineering Student (BAC+4) at INSA Centre-Val de Loire, pursuing a dual specialization in **Cybersecurity and Artificial Intelligence**[cite: 4, 8, 9].
+I am an Engineering Student (BAC+4) at INSA Centre-Val de Loire, pursuing a dual specialization in **Cybersecurity and Artificial Intelligence**.
 
-[cite_start]I'm passionate about securing systems and intelligently exploiting data[cite: 5]. [cite_start]My focus is on using Python for Deep Learning (PyTorch, TensorFlow) and for security scripting (Bash)[cite: 5]. I thrive on solving complex problems and building practical, data-driven solutions.
+I'm passionate about securing systems and intelligently exploiting data. My focus is on using Python for Deep Learning (PyTorch, TensorFlow) and for security scripting (Bash). I thrive on solving complex problems and building practical, data-driven solutions.
 
 ---
 
 ### 🚀 What I'm Focused On
 
-* [cite_start]🌱 I'm currently seeking a **4-month internship** to contribute to innovative projects in AI or Cybersecurity[cite: 6].
-* [cite_start]🎓 Deepening my skills in system security (Linux) and vulnerability analysis[cite: 25].
-* [cite_start]💡 Building and optimizing AI pipelines, from data processing (OCR, RAG) [cite: 14] [cite_start]to 3D image classification[cite: 17, 18].
+* 🌱 I'm currently seeking a **4-month internship** to contribute to innovative projects in AI or Cybersecurity.
+* 🎓 Deepening my skills in system security (Linux) and vulnerability analysis.
+* 💡 Building and optimizing AI pipelines, from data processing (OCR, RAG) to 3D image classification.
 
 ---
 
