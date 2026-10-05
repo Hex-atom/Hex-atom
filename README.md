@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20Aherrass-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yassine-aherrass)
 [![Email](https://img.shields.io/badge/Email-yassine.aherrass@insa--cvl.fr-D14836?style=flat&logo=gmail)](mailto:yassine.aherrass@insa-cvl.fr)
 
-I am an Engineering Student (BAC+4) at INSA Centre-Val de Loire, pursuing a dual specialization in **Cybersecurity and Artificial Intelligence**.
+I am an Engineering Student (BAC+5) at INSA Centre-Val de Loire, pursuing a dual specialization in **Cybersecurity and Artificial Intelligence**.
 
 I’m passionate about Cybersecurity, Artificial Intelligence, and data exploitation. My focus is on using Python for Machine/Deep Learning (scikitlearn, TensorFlow) as well as for cybersecurity applications. I thrive on solving complex problems and developing practical, data-driven solutions that make a real-world impact.
 
